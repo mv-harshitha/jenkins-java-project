@@ -14,14 +14,14 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU.</h2>
+      <h2> WELCOME TO NETFLIX </h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>ENTER EMAIL </label>
         </div>
         <div class="form-control">
-          <input type="password" required />
+          <input type="ENTER PASSWORD" required />
           <label>Password</label>
         </div>
         <button type="submit"> BYE  </button>
